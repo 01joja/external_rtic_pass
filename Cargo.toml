@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [lib]
-name = "external_pass"
+name = "external_rtic_pass"
 
 [dependencies]
 external_pass_macro = { path = "./macros" }
